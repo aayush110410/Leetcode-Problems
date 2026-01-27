@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aayush110410/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aayush110410/Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/aayush110410/Leetcode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/aayush110410/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
@@ -15,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aayush110410/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/aayush110410/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aayush110410/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
@@ -55,4 +57,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aayush110410/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aayush110410/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
