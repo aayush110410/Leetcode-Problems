@@ -61,4 +61,20 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aayush110410/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aayush110410/Leetcode-Problems/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aayush110410/Leetcode-Problems/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aayush110410/Leetcode-Problems/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aayush110410/Leetcode-Problems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
