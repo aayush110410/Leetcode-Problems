@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/aayush110410/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [1929-concatenation-of-array](https://github.com/aayush110410/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/aayush110410/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aayush110410/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/aayush110410/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/aayush110410/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 ## String
 |  |
 | ------- |
@@ -113,4 +115,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/aayush110410/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/aayush110410/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
