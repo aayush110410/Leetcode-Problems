@@ -32,9 +32,11 @@ Collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/aayush110410/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/aayush110410/Leetcode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/aayush110410/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0496-next-greater-element-i](https://github.com/aayush110410/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/aayush110410/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aayush110410/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [1929-concatenation-of-array](https://github.com/aayush110410/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -48,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/aayush110410/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aayush110410/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/aayush110410/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/aayush110410/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aayush110410/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 ## String
 |  |
@@ -118,5 +121,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/aayush110410/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aayush110410/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
